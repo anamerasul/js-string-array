@@ -16,6 +16,7 @@ for(const product of products){
 
 // console.log(output);
 
+// includes
 for(const product of products){
         if(product.toLowerCase().includes(Searching.toLowerCase())){
                 // output.push(product);
@@ -33,3 +34,5 @@ for(const product of products){
 
 
 console.log(output)
+
+// endsWith
