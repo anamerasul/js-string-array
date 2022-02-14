@@ -30,4 +30,4 @@ function getFullName(firstName,lastName){
 
 const name=getFullName('omok','sonket','bin','hanif','songket', 'bin', 'tumuk',"songket");
 
-console.log(name)
+console.log(name);
