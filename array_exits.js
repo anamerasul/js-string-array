@@ -33,7 +33,7 @@ if(friends.includes('lion')){
 }
 
 
-// concat
+// concat//
 
 
 const first=[1,3,5];
