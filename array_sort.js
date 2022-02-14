@@ -17,6 +17,8 @@ console.log(reversedFriends);
 
 //nurbers sorting fun
 
+// numbes sort
+
 const bigNumbers=[66,58,81,92,9,6,37,13,2];
 
 const sortedBigNumbers=bigNumbers.sort(
